@@ -1,0 +1,5 @@
+.announcement_bar_alert:hover .chevron_rightIcon {
+  color: #e0e0e0;
+  transform: scale(1.5);
+  transition: transform 0.5s;
+}
